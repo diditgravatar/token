@@ -161,4 +161,4 @@ contract MyAdvancedToken is IERC20 {
 - **Deploy ke Testnet**: Anda bisa menguji kontrak ini di testnet Ethereum (seperti Rinkeby atau Ropsten) untuk melihat bagaimana token berfungsi.
 - **Menghubungkan ke Frontend**: Gunakan library seperti **Web3.js** atau **Ethers.js** untuk berinteraksi dengan kontrak ini melalui antarmuka pengguna.
 
-Jika Anda ingin tahu lebih lanjut tentang penerapan dan penggunaan lebih lanjut, atau jika Anda ingin menguji kontrak ini di jaringan testnet, saya bisa membantu lebih lanjut.
+
